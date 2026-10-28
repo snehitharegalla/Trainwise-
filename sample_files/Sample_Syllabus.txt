@@ -1,0 +1,6 @@
+1. Microservices Architecture Core Principles
+2. API Gateway Routing, Authentication & Rate Limiting
+3. Resilience Patterns: Circuit Breakers, Fallbacks & Retries
+4. Container Orchestration with Docker & Kubernetes
+5. Event Sourcing and Distributed Logs with Apache Kafka
+6. Zero-Trust Service Mesh Security with Istio & mTLS

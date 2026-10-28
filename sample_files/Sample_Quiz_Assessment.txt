@@ -1,0 +1,5 @@
+Q1. What is the primary operational role of an API Gateway in a microservices deployment?
+Q2. How does a Circuit Breaker prevent cascading system failures when downstream services experience latency?
+Q3. Explain the difference between container orchestration in Kubernetes and virtual machine provisioning.
+Q4. How does Quantum Key Distribution (QKD) encrypt inter-service telecommunication packets against post-quantum lattice attacks?
+Q5. What are the key benefits of decoupling monolithic relational databases into service-isolated data stores?
